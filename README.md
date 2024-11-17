@@ -1,21 +1,21 @@
-# Projeto "Snacks" - Modelagem e Desenvolvimento de Software
+# Project "Snacks" - Software Modeling and Development  
 
-Este repositório documenta o desenvolvimento do projeto "Snacks", um aplicativo para facilitar pedidos e compras na lanchonete do campus, criado como parte da disciplina de Modelagem e Desenvolvimento de Software. O foco principal do projeto foi construir uma modelagem robusta, que servisse de base para o desenvolvimento inicial e garantisse uma visão clara de todas as funcionalidades e interações necessárias no app.
+This repository documents the development of the "Snacks" project, an application designed to simplify ordering and purchasing at the campus snack bar. It was created as part of the Software Modeling and Development course. The primary focus of the project was to build a robust model that serves as the foundation for the initial development phase and ensures a clear vision of all necessary functionalities and interactions within the app.  
 
-Durante o projeto, trabalhamos para entender as necessidades dos usuários e criar uma estrutura detalhada que descrevesse cada aspecto do funcionamento do aplicativo, desde o perfil dos usuários até a organização interna do código. A partir disso, elaboramos diagramas, protótipos e documentos que explicam como o sistema deve se comportar, sempre com base em boas práticas de design e no padrão arquitetural MVC (Model-View-Controller), que organiza a lógica de negócios separadamente da interface e da gestão de dados.
+During the project, we worked to understand user needs and create a detailed structure that describes every aspect of the app's operation, from user profiles to the internal organization of the code. Based on this understanding, we developed diagrams, prototypes, and documents that explain how the system should behave, always adhering to best design practices and the MVC (Model-View-Controller) architectural pattern. This approach separates business logic from the user interface and data management.  
 
-Embora o escopo tenha sido voltado principalmente para a modelagem completa, demos os primeiros passos no desenvolvimento utilizando Flutter, explorando funcionalidades e validando o design proposto. Esse repositório é uma visão abrangente do processo de planejamento de um software, incluindo desde a pesquisa de requisitos até a organização e documentação do código.
+Although the main focus was on comprehensive modeling, we also took the first steps in development using Flutter, exploring features and validating the proposed design. This repository provides a comprehensive view of the software planning process, including everything from requirements research to code organization and documentation.  
 
-Além do código para o app "Snacks", estão contidos nesse diretório os arquivos e documentos usados durante o planejamento da aplicação:
+In addition to the "Snacks" app code, this directory contains the files and documents used during the application's planning process:  
 
-1. Job to be Done
-2. Personas
-3. Diagrama de caso de uso
-4. Diagrama de classe
-5. Diagrama de sequência Usuário
-6. Diagrama de sequência Cliente
-7. Diagrama de sequência Vendedor
-8. Redes de atividade
-9. Lista de tarefas utilizada para organização
-10. Protótipo preliminar para feedback do cliente
-11. Padrão de projeto do App (MVC)
+1. **Job to be Done**  
+2. **Personas**  
+3. **Use Case Diagram**  
+4. **Class Diagram**  
+5. **User Sequence Diagram**  
+6. **Client Sequence Diagram**  
+7. **Vendor Sequence Diagram**  
+8. **Activity Diagrams**  
+9. **Task List Used for Organization**  
+10. **Preliminary Prototype for Client Feedback**  
+11. **App Design Pattern (MVC)**
